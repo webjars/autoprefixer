@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>autoprefixer</artifactId>
-    <version>9.5.1-SNAPSHOT</version>
+    <version>9.5.1</version>
     <name>Autoprefixer</name>
     <description>WebJar for Autoprefixer</description>
     <url>http://webjars.org</url>
@@ -44,7 +44,7 @@
         <url>http://github.com/webjars/autoprefixer</url>
         <connection>scm:git:https://github.com/webjars/autoprefixer.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/autoprefixer.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>autoprefixer-9.5.1</tag>
     </scm>
     
     <build>
